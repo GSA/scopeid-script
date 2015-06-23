@@ -16,9 +16,11 @@ This project uses ruby 2.1.2.  To install:
     cd scopeid-script
     bundle install
 
-Run the app on localhost:3000
+Run the app:
 
     rails s
+    
+Navigate to [localhost:3000](localhost:3000) to initiate the CSV download.
 
 ## Deploying 
 
