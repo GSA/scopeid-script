@@ -1,0 +1,22 @@
+<vocabularyservices>
+	<result>
+		<term>
+			<term_id>22</term_id>
+			<code>usagovAK</code>
+			<lang>en</lang><
+			string>usagovAK</string>
+		</term>
+		<term>
+			<term_id>11928</term_id>
+			<code>usagovFEDgov</code>
+			<lang>en</lang>
+			<string>usagovFEDgov</string>
+		</term>
+		<term>
+			<term_id>552</term_id>
+			<code>z usagovNCgov</code>
+			<lang>en</lang>
+			<string>NCgov</string>
+		</term>
+	</result>
+</vocabularyservices>
