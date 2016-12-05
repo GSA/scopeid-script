@@ -1,0 +1,13 @@
+name: 'ScopeID Script'
+description: 'A script for formatting the output of the Government URLs repo for submission to the Bing web index'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - search
+    - Bing
+    - domains
+contact:
+    email: dawn.mccleskey@gsa.gov
