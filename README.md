@@ -4,6 +4,10 @@
 
 [![Test Coverage](https://codeclimate.com/github/GSA/scopeid-script/badges/coverage.svg)](https://codeclimate.com/github/GSA/scopeid-script/coverage)
 
+## WARNING!
+
+This repo is offically deprecated. Use at your own risk.
+
 ## Using the App
 
 The app runs on Heroku, hit the URL to download a CSV file containing government URLs and scope ids:  [https://scopeid-script.herokuapp.com/](https://scopeid-script.herokuapp.com/)
